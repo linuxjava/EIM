@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/activity/ActivitySupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/activity/EimApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/activity/IActivitySupport.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/activity/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/activity/im/AContacterActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/comm/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/manager/ContacterManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/model/LoginConfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/model/MainPageItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/csdn/shimiso/eim/service/IMContactService.java" charset="UTF-8" />
+  </component>
+</project>
+
