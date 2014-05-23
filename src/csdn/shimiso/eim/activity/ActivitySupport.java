@@ -110,6 +110,9 @@ public class ActivitySupport extends Activity implements IActivitySupport {
 		// 好友联系人服务
 		Intent server = new Intent(context, IMContactService.class);
 		context.stopService(server);
+
+
+
 		// 聊天服务
 		Intent chatServer = new Intent(context, IMChatService.class);
 		context.stopService(chatServer);

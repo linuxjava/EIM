@@ -10,19 +10,19 @@ import csdn.shimiso.eim.manager.XmppConnectionManager;
 
 /**
  * 
- * ÍêÕûµÄÍË³öÓ¦ÓÃ.
+ * å®Œæ•´çš„é€€å‡ºåº”ç”¨.
  * 
  * @author shimiso
  */
 public class EimApplication extends Application {
 	private List<Activity> activityList = new LinkedList<Activity>();
 
-	// Ìí¼ÓActivityµ½ÈİÆ÷ÖĞ
+	// æ·»åŠ Activityåˆ°å®¹å™¨ä¸­
 	public void addActivity(Activity activity) {
 		activityList.add(activity);
 	}
 
-	// ±éÀúËùÓĞActivity²¢finish
+	// éå†æ‰€æœ‰Activityå¹¶finish
 	public void exit() {
 		XmppConnectionManager.getInstance().disconnect();
 		for (Activity activity : activityList) {

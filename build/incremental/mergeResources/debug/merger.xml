@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="E:\Repo\Git\EIM\res" >
+            <file
+                name="edit_text"
+                path="E:\Repo\Git\EIM\res\anim\edit_text.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="pophidden_anim"
+                path="E:\Repo\Git\EIM\res\anim\pophidden_anim.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="popshow_anim"
+                path="E:\Repo\Git\EIM\res\anim\popshow_anim.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_left_in"
+                path="E:\Repo\Git\EIM\res\anim\slide_left_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_left_out"
+                path="E:\Repo\Git\EIM\res\anim\slide_left_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_right_in"
+                path="E:\Repo\Git\EIM\res\anim\slide_right_in.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="slide_right_out"
+                path="E:\Repo\Git\EIM\res\anim\slide_right_out.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="btn_check"
+                path="E:\Repo\Git\EIM\res\drawable\btn_check.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="button"
+                path="E:\Repo\Git\EIM\res\drawable\button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chat_history_bg_selector"
+                path="E:\Repo\Git\EIM\res\drawable\chat_history_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chat_popup_button_bg_selector"
+                path="E:\Repo\Git\EIM\res\drawable\chat_popup_button_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="chat_send_button_bg"
+                path="E:\Repo\Git\EIM\res\drawable\chat_send_button_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="expand_group"
+                path="E:\Repo\Git\EIM\res\drawable\expand_group.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_bg"
+                path="E:\Repo\Git\EIM\res\drawable\face_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_bg_selected"
+                path="E:\Repo\Git\EIM\res\drawable\face_bg_selected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_bg_unselected"
+                path="E:\Repo\Git\EIM\res\drawable\face_bg_unselected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_self_bg"
+                path="E:\Repo\Git\EIM\res\drawable\face_self_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_self_bg_selected"
+                path="E:\Repo\Git\EIM\res\drawable\face_self_bg_selected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="face_self_bg_unselected"
+                path="E:\Repo\Git\EIM\res\drawable\face_self_bg_unselected.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="leba_shape_bg"
+                path="E:\Repo\Git\EIM\res\drawable\leba_shape_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_child_selector"
+                path="E:\Repo\Git\EIM\res\drawable\list_child_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_group_selector"
+                path="E:\Repo\Git\EIM\res\drawable\list_group_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_item_selector"
+                path="E:\Repo\Git\EIM\res\drawable\list_item_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main_lab_bottom"
+                path="E:\Repo\Git\EIM\res\drawable\main_lab_bottom.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main_page_item_bg"
+                path="E:\Repo\Git\EIM\res\drawable\main_page_item_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="message_list_item_footer_background"
+                path="E:\Repo\Git\EIM\res\drawable\message_list_item_footer_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ptt_error_button_selector"
+                path="E:\Repo\Git\EIM\res\drawable\ptt_error_button_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ptt_message_bg_selector"
+                path="E:\Repo\Git\EIM\res\drawable\ptt_message_bg_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pull_to_refresh_header_background"
+                path="E:\Repo\Git\EIM\res\drawable\pull_to_refresh_header_background.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="sc_messagebtn"
+                path="E:\Repo\Git\EIM\res\drawable\sc_messagebtn.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectorchoosecarsearch"
+                path="E:\Repo\Git\EIM\res\drawable\selectorchoosecarsearch.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shape_line"
+                path="E:\Repo\Git\EIM\res\drawable\shape_line.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab1_selector"
+                path="E:\Repo\Git\EIM\res\drawable\tab1_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab2_selector"
+                path="E:\Repo\Git\EIM\res\drawable\tab2_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tab3_selector"
+                path="E:\Repo\Git\EIM\res\drawable\tab3_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ticket_tab_indicator_selector"
+                path="E:\Repo\Git\EIM\res\drawable\ticket_tab_indicator_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="tiny_square_selector"
+                path="E:\Repo\Git\EIM\res\drawable\tiny_square_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="title_btn_l_selector"
+                path="E:\Repo\Git\EIM\res\drawable\title_btn_l_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="title_btn_r_selector"
+                path="E:\Repo\Git\EIM\res\drawable\title_btn_r_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="addcontact_icon"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\addcontact_icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="arrow"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\arrow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\bg.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bottom"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\bottom.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_disabled"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_off_disabled.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_off_selected"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_off_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_disabled"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_on_disabled.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_check_on_selected"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\btn_check_on_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_bottom_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_bottom_bg.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_btn"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_btn.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_btn_history"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_btn_history.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_btn_history_pressed"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_btn_history_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_btn_pressed"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_btn_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_popup_pressed"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_popup_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_title_btn_l"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_title_btn_l.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="chat_title_btn_r"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\chat_title_btn_r.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="choosecareditback"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\choosecareditback.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="choosecarsearch"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\choosecarsearch.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="dialog_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\dialog_bg.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="divider_group"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\divider_group.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="divider_horizontal_line"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\divider_horizontal_line.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="email"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\email.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="expand"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\expand.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="expand_column_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\expand_column_bg.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="e_contact"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\e_contact.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="e_contacts"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\e_contacts.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="faceback"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\faceback.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="faceback_head"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\faceback_head.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="faceback_manager"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\faceback_manager.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_0"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_1"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_2"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_3"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_4"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="feature_guide_5"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\feature_guide_5.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="friend_info_avatar_upload"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\friend_info_avatar_upload.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="friend_info_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\friend_info_bg.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="friend_info_sign"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\friend_info_sign.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="h001"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\h001.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="history_left_pointer"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\history_left_pointer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="history_right_pointer"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\history_right_pointer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="home_group_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\home_group_bg.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_chm"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_chm.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_excel"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_excel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_file"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_file.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_flash"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_flash.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_folder"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_folder.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_html"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_html.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_music"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_music.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_pdf"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_pdf.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_ppt"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_ppt.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_profile_edit"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_profile_edit.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_recent_sysmsg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_recent_sysmsg.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon_uplevel"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\icon_uplevel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_pulltorefresh_arrow"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ic_pulltorefresh_arrow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="incoming"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\incoming.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="input_over"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\input_over.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_indecator_button"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\list_indecator_button.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="list_indecator_button_down"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\list_indecator_button_down.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\local_tab_bom.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_0"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\local_tab_bom_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_1"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\local_tab_bom_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="login_input"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\login_input.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mycontacts"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\mycontacts.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mydaily"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\mydaily.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="myheader_bg"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\myheader_bg.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mymemo"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\mymemo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mynote"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\mynote.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mynotice"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\mynotice.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="my_friends"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\my_friends.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="my_news"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\my_news.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="narrow"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\narrow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="narrow_select"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\narrow_select.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="near_popup"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\near_popup.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="outgoing"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\outgoing.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="page_indicator"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\page_indicator.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="page_indicator_focused"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\page_indicator_focused.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="popbar_icon_info"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\popbar_icon_info.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ptt_action_l_3"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ptt_action_l_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ptt_action_r_3"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ptt_action_r_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ptt_balloon_l"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ptt_balloon_l.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ptt_balloon_l_2"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\ptt_balloon_l_2.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="p_contact"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\p_contact.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="p_folder"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\p_folder.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="qq_btn_normal"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\qq_btn_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="qq_btn_pressed"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\qq_btn_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="resend_normal"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\resend_normal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="resend_press"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\resend_press.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="scrollbar_handle_vertical"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\scrollbar_handle_vertical.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_am_ok_click"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_am_ok_click.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_am_ok_default"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_am_ok_default.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_bg_glassbar"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_bg_glassbar.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_bg_glassbar_j"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_bg_glassbar_j.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_messagebubble_bg_nor"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_messagebubble_bg_nor.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_messagebubble_bg_press"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_messagebubble_bg_press.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sc_message_box_bubble"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sc_message_box_bubble.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="search"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="search2"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\search2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="searchbotton"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\searchbotton.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="searchbottonpress"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\searchbottonpress.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="set"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\set.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shurukuang"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\shurukuang.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="signin"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\signin.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="skinpic_blue"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\skinpic_blue.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="skinpic_blue_j"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\skinpic_blue_j.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="sso"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\sso.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="status_offline"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\status_offline.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="status_online"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\status_online.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab1_normal"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab1_normal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab1_over"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab1_over.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab2_normal"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab2_normal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab2_over"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab2_over.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab3_normal"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab3_normal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tab3_over"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tab3_over.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tabbottom"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tabbottom.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tiny_square"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tiny_square.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tiny_square_pressed"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tiny_square_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="tips_arrow"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\tips_arrow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="title_btn_back"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\title_btn_back.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="title_btn_l_color"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\title_btn_l_color.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="title_btn_r_color"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\title_btn_r_color.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="topbar_select"
+                path="E:\Repo\Git\EIM\res\drawable-hdpi\topbar_select.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_chm"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_chm.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_excel"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_excel.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_file"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_file.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_flash"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_flash.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_folder"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_folder.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_html"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_html.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_music"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_music.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_pdf"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_pdf.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_ppt"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_ppt.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon_uplevel"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\icon_uplevel.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\ic_launcher.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="im"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\im.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\local_tab_bom.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_0"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\local_tab_bom_0.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_1"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\local_tab_bom_1.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="sc_bg_glassbar_j"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\sc_bg_glassbar_j.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="skinpic_blue_j"
+                path="E:\Repo\Git\EIM\res\drawable-ldpi\skinpic_blue_j.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\Repo\Git\EIM\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Repo\Git\EIM\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_chm"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_chm.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_excel"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_excel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_file"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_file.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_flash"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_flash.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_folder"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_folder.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_html"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_html.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_music"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_music.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_pdf"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_pdf.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_ppt"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_ppt.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="icon_uplevel"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\icon_uplevel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\local_tab_bom.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_0"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\local_tab_bom_0.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="local_tab_bom_1"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\local_tab_bom_1.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="sc_bg_glassbar_j"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\sc_bg_glassbar_j.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="skinpic_blue_j"
+                path="E:\Repo\Git\EIM\res\drawable-xhdpi\skinpic_blue_j.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="chat"
+                path="E:\Repo\Git\EIM\res\layout\chat.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chathistory"
+                path="E:\Repo\Git\EIM\res\layout\chathistory.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chathistoryitem"
+                path="E:\Repo\Git\EIM\res\layout\chathistoryitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chatlistheader"
+                path="E:\Repo\Git\EIM\res\layout\chatlistheader.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chat_group"
+                path="E:\Repo\Git\EIM\res\layout\chat_group.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chat_item"
+                path="E:\Repo\Git\EIM\res\layout\chat_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contacter"
+                path="E:\Repo\Git\EIM\res\layout\contacter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contacter_main"
+                path="E:\Repo\Git\EIM\res\layout\contacter_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contacter_tab1"
+                path="E:\Repo\Git\EIM\res\layout\contacter_tab1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contacter_tab2"
+                path="E:\Repo\Git\EIM\res\layout\contacter_tab2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="contacter_tab3"
+                path="E:\Repo\Git\EIM\res\layout\contacter_tab3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="datetime_dialog"
+                path="E:\Repo\Git\EIM\res\layout\datetime_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="date_dialog"
+                path="E:\Repo\Git\EIM\res\layout\date_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="file_back"
+                path="E:\Repo\Git\EIM\res\layout\file_back.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="formclient_chat_in"
+                path="E:\Repo\Git\EIM\res\layout\formclient_chat_in.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="formclient_chat_out"
+                path="E:\Repo\Git\EIM\res\layout\formclient_chat_out.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="friend_info"
+                path="E:\Repo\Git\EIM\res\layout\friend_info.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="guide_view"
+                path="E:\Repo\Git\EIM\res\layout\guide_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="head"
+                path="E:\Repo\Git\EIM\res\layout\head.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item01"
+                path="E:\Repo\Git\EIM\res\layout\item01.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item02"
+                path="E:\Repo\Git\EIM\res\layout\item02.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item03"
+                path="E:\Repo\Git\EIM\res\layout\item03.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item04"
+                path="E:\Repo\Git\EIM\res\layout\item04.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item05"
+                path="E:\Repo\Git\EIM\res\layout\item05.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item06"
+                path="E:\Repo\Git\EIM\res\layout\item06.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="item_header"
+                path="E:\Repo\Git\EIM\res\layout\item_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="loading_listview"
+                path="E:\Repo\Git\EIM\res\layout\loading_listview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login"
+                path="E:\Repo\Git\EIM\res\layout\login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="E:\Repo\Git\EIM\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main_page_item"
+                path="E:\Repo\Git\EIM\res\layout\main_page_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my_notice"
+                path="E:\Repo\Git\EIM\res\layout\my_notice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="my_notice_item"
+                path="E:\Repo\Git\EIM\res\layout\my_notice_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="noticelistheader"
+                path="E:\Repo\Git\EIM\res\layout\noticelistheader.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="recent_chart_item"
+                path="E:\Repo\Git\EIM\res\layout\recent_chart_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="system_notice"
+                path="E:\Repo\Git\EIM\res\layout\system_notice.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sys_notice_detail"
+                path="E:\Repo\Git\EIM\res\layout\sys_notice_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tab_indicator"
+                path="E:\Repo\Git\EIM\res\layout\tab_indicator.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="user_info"
+                path="E:\Repo\Git\EIM\res\layout\user_info.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="user_info_detail"
+                path="E:\Repo\Git\EIM\res\layout\user_info_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="user_info_edit"
+                path="E:\Repo\Git\EIM\res\layout\user_info_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="user_info_top"
+                path="E:\Repo\Git\EIM\res\layout\user_info_top.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="yd_group_dialog"
+                path="E:\Repo\Git\EIM\res\layout\yd_group_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="chat_menu"
+                path="E:\Repo\Git\EIM\res\menu\chat_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="contacter_menu"
+                path="E:\Repo\Git\EIM\res\menu\contacter_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="login_menu"
+                path="E:\Repo\Git\EIM\res\menu\login_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_page_menu"
+                path="E:\Repo\Git\EIM\res\menu\main_page_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="my_notice_menu"
+                path="E:\Repo\Git\EIM\res\menu\my_notice_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="pcontacts_menu"
+                path="E:\Repo\Git\EIM\res\menu\pcontacts_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="sso_menu"
+                path="E:\Repo\Git\EIM\res\menu\sso_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="yun_context_menu"
+                path="E:\Repo\Git\EIM\res\menu\yun_context_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="E:\Repo\Git\EIM\res\values\colors.xml"
+                qualifiers="" >
+                <color name="white2" >#dddddd
+                </color>
+                <color name="white3" >#EEEEFF
+                </color>
+                <color name="chat_emotion_unit_press" >#ffd5d5d5
+                </color>
+                <color name="lightgray" >#c0c0c0
+                </color>
+
+                <item
+                    name="chat_background"
+                    type="color">
+@color/window_bg
+                </item>
+                <item
+                    name="linecolor"
+                    type="drawable">
+#ffced3ce
+                </item>
+                <item
+                    name="chat_title_bg"
+                    type="color">
+@color/title_bg
+                </item>
+
+                <color name="black" >#000000
+                </color>
+                <color name="transparent_black" >#80000000
+                </color>
+                <color name="trans" >#00000000
+                </color>
+                <color name="transparent" >#10ffffff
+                </color>
+                <color name="chat_list_header_text" >#ff666666
+                </color>
+                <color name="title_bg" >#ff54acea
+                </color>
+                <color name="gray_blue" >#DDDDFF
+                </color>
+                <color name="blue" >#0000ff
+                </color>
+                <color name="p_text1" >#ff727272
+                </color>
+                <color name="gold" >#b89766
+                </color>
+                <color name="p_text2" >#ff343434
+                </color>
+                <color name="red" >#ff0000
+                </color>
+                <color name="gray" >#808080
+                </color>
+                <color name="p_bg" >#fff1f3f5
+                </color>
+                <color name="darkgray" >#4B4B4B
+                </color>
+                <color name="chat_history_msg_text" >#ff545454
+                </color>
+                <color name="yellow" >#ffff00
+                </color>
+                <color name="chat_history_time_text" >#ff999999
+                </color>
+                <color name="white" >#FFFFFF
+                </color>
+                <color name="message_list_item_footer_background" >#eeeeee
+                </color>
+                <color name="transparent_white" >#80ffffff
+                </color>
+                <color name="watermark" >#FF33FF
+                </color>
+                <color name="window_bg" >#fff0f3f6
+                </color>
+                <color name="chat_text" >#ff333333
+                </color>
+            </file>
+            <file
+                path="E:\Repo\Git\EIM\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="button_height" >45.0dip
+                </dimen>
+                <dimen name="bottom_tab_padding_drawable" >2.0dip
+                </dimen>
+                <dimen name="bottom_tab_font_size" >20dip
+                </dimen>
+                <dimen name="bottom_tab_padding_up" >5.0dip
+                </dimen>
+                <dimen name="switch_logo_bottom_padding" >30.0sp
+                </dimen>
+            </file>
+            <file
+                path="E:\Repo\Git\EIM\res\values\strings.xml"
+                qualifiers="" >
+                <string name="my_folder" >个人文件夹
+                </string>
+                <string name="auto_login" >自动登录
+                </string>
+                <string name="input_username" >输入用户名
+                </string>
+                <string name="message_user_expired" >账户已过期
+                </string>
+                <string name="message_invalid_username_password" >错误的用户名或密码
+                </string>
+                <string name="chat_check_history" >查看聊天记录
+                </string>
+                <string name="confirm" >确定
+                </string>
+                <string name="yes" >是
+                </string>
+                <string name="depart" >部门:
+                </string>
+                <string name="move_to" >移动到
+                </string>
+                <string name="menu_contacts_group_rename" >重命名联系人分组
+                </string>
+                <string name="edit" >编辑
+                </string>
+
+                <bool name="is_remember" >
+true
+                </bool>
+
+                <string name="name" >姓名:
+                </string>
+                <string name="check_sys_msg" >查看系统消息
+                </string>
+                <string name="password" >密码
+                </string>
+                <string name="menu_settings" >设置
+                </string>
+                <string name="xmpp_host" >192.168.0.186
+                </string>
+                <string name="finish" >完成
+                </string>
+                <string name="group_name" >分组名称
+                </string>
+
+                <integer name="xmpp_port" >
+5222
+                </integer>
+
+                <string name="img_dir" >/img
+                </string>
+                <string name="group" >分组
+                </string>
+                <string name="login_title" >企信通登录设置
+                </string>
+                <string name="reset_btn" >重置
+                </string>
+                <string name="check_sdcard" >请检查内存卡！
+                </string>
+                <string name="at_the_last" >已经到达最后一页
+                </string>
+                <string name="close" >关闭
+                </string>
+                <string name="add" >添加
+                </string>
+                <string name="save" >保存
+                </string>
+                <string name="username_not_null" >用户名不允许为空
+                </string>
+                <string name="check_connection" >无可用网络连接，请检查网络设置！
+                </string>
+                <string name="no" >否
+                </string>
+                <string name="remember_password" >记住密码
+                </string>
+                <string name="loginName" >账户
+                </string>
+                <string name="failedconnection" >网络连接不可用，请检查网络设置
+                </string>
+                <string name="hide_login" >隐身登录
+                </string>
+                <string name="remark" >备注
+                </string>
+                <string name="menu_contacts_modify" >联系人修改
+                </string>
+                <string name="phone" >固定电话:
+                </string>
+                <string name="chat_delete" >删除
+                </string>
+                <string name="company_name" >公司名称
+                </string>
+                <string name="menu_contacts_group_move" >移动联系人分组
+                </string>
+                <string name="db_dir" >/database
+                </string>
+                <string name="position" >职位
+                </string>
+                <string name="cancel" >取消
+                </string>
+
+                <bool name="is_novisible" >
+false
+                </bool>
+
+                <string name="unrecoverable_error" >发生未知异常,连接失败
+                </string>
+                <string name="text2" >好友曾向我展示了最新的iPhone和iPad版《极品飞车》。游戏的渲染效果令人印象深刻，是款蓄势待发的优秀游戏。但是，游戏的前端是典型的UI设计偏差案例。但界面中有大量的属性数据等内容，它在玩家没有时间做决定时提供了过多的内容。这些内容能够显著改变他们的游戏体验，但却在玩家往往感受不到变化的时候呈现。
+                </string>
+                <string name="exit" >退出
+                </string>
+                <string name="text1" >随着Windows Phone逐步渗入中国智能手机市场，Windows Phone作为移动操作平台的新锐，自然不会失宠。Windows Phone 7在中国没有流行的原因，很大程度上是因为在中国并没有上市。现在，诺基亚和微软宣布达成紧密战略合作之后，沉寂许久的Windows Phone操作系统再次走入了人们关注的视野，成了移动应用开发者继iOS和Android之外的另一选择。
+                </string>
+                <string name="new_message" >收到新短消息
+                </string>
+                <string name="login_btn" >登录
+                </string>
+                <string name="text6" >Google搜索引擎已经赢得全球范围的赞誉，而这一切都要归功于Google开创性的MapReduce。Google搜索引擎算法只是其搜索引擎的一部分，在后台支持Google算法的基础设施才是真正的幕后英雄，其基础设施可快速的索引链接成千上万台普通服务器。MapReduce的成功也直接推动了Hadoop的发展。
+                </string>
+                <string name="text5" >在NASA和美国国家地理的参与下，这群小鸟摆脱了地球引力，跑到了太空，这就是即将在2012年3月22日公测的《愤怒的小鸟：太空版》。为了让小鸟们成功解救出它们珍贵的“无价之蛋”，美国国家地理为此出版了一本书，来提供完成任务所需的关于行星、卫星、银河系等关于外太空的知识，并将于3月20日开始发售。
+                </string>
+                <string name="text4" >北京时间4月1日消息，谷歌虽然一直以来都在地图产品上提供和完善各种各样的系统接口，但是迄今为止却一直忽略了广受欢迎的NES游戏。然而也就是今天搜索巨头谷歌利用愚人节的机会，“调皮”地推出流行的NES八位地图产品。
+                </string>
+                <string name="text3" >3月31日，第四届CocoaChina游戏开发者大会暨Cocos2D-X技术研讨会在北京举行。来自全世界的移动互联网精英在此交流经验、相互学习。同时这次我们有幸也采访到了CocoaChina的CEO陈昊芝先生。他将为我们揭秘苹果新榜单的算法秘密，并未我们带来捕鱼达人成功的推广经验，对微软Windows Phone平台的吐槽和对未来3D技术趋势的前瞻。
+                </string>
+                <string name="message_userip_no_access" >IP不合法,已被禁用
+                </string>
+                <string name="username_exist" >好友已存在
+                </string>
+                <string name="prompt" >提示
+                </string>
+                <string name="email" >邮箱:
+                </string>
+                <string name="app_dir" >/app
+                </string>
+                <string name="chat_his_with_sb" >与%1$s的聊天记录
+                </string>
+                <string name="xmpp_service_name" >192.168.0.186
+                </string>
+                <string name="save_checkbox" >保存账户
+                </string>
+                <string name="message_user_disabled" >用户被禁用
+                </string>
+
+                <bool name="is_autologin" >
+false
+                </bool>
+
+                <string name="pcontacts_info" >联系人信息
+                </string>
+                <string name="dir" >/eim
+                </string>
+                <string name="menu_contacts_group_add" >添加联系人分组
+                </string>
+                <string name="delete_user_confim" >删除用户会将该用户所有聊天记录一并删除，是否继续?
+                </string>
+                <string name="mobile" >手机号:
+                </string>
+                <string name="chat_exprot" >导出
+                </string>
+                <string name="chat_clear" >清空
+                </string>
+                <string name="app_name" >企信通
+                </string>
+                <string name="message_server_unavailable" >无法连接到服务器
+                </string>
+                <string name="set_nickname" >设置昵称
+                </string>
+                <string name="menu_contacts_add" >添加联系人
+                </string>
+            </file>
+            <file
+                path="E:\Repo\Git\EIM\res\values\style.xml"
+                qualifiers="" >
+
+                <style name="head_style" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:background">
+@drawable/skinpic_blue_j
+                    </item>
+                </style>
+
+                <style name="main_tab_bottom" >
+                    <item name="android:ellipsize">
+marquee
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                    <item name="android:background">
+@drawable/main_lab_bottom
+                    </item>
+                    <item name="android:paddingTop">
+@dimen/bottom_tab_padding_up
+                    </item>
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+                    <item name="android:button">
+@null
+                    </item>
+                    <item name="android:drawablePadding">
+@dimen/bottom_tab_padding_drawable
+                    </item>
+                    <item name="android:layout_weight">
+1.0
+                    </item>
+                </style>
+
+                <style name="head_bom_style" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:background">
+@drawable/sc_bg_glassbar_j
+                    </item>
+                </style>
+
+                <style name="title_button" >
+                    <item name="android:paddingLeft">
+5dip
+                    </item>
+                    <item name="android:gravity">
+center_vertical
+                    </item>
+                    <item name="android:clickable">
+true
+                    </item>
+                    <item name="android:shadowColor">
+#666
+                    </item>
+                    <item name="android:shadowRadius">
+1
+                    </item>
+                    <item name="android:shadowDx">
+0
+                    </item>
+                    <item name="android:shadowDy">
+-1
+                    </item>
+                    <item name="android:drawableBottom">
+@drawable/tiny_square_selector
+                    </item>
+                    <item name="android:textColor">
+#FFF
+                    </item>
+                    <item name="android:textSize">
+15sp
+                    </item>
+                </style>
+
+                <style name="popwindow_anim_style" >
+                    <item name="android:windowEnterAnimation">
+@anim/popshow_anim
+                    </item>
+                    <!-- 指定显示的动画xml -->
+                    <item name="android:windowExitAnimation">
+@anim/pophidden_anim
+                    </item>
+                    <!-- 指定消失的动画xml -->
+                </style>
+            </file>
+        </source>
+        <source path="E:\Repo\Git\EIM\build\res\rs\debug" />
+        <source path="E:\Repo\Git\EIM\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\Repo\Git\EIM\build-types\debug\res" />
+    </dataSet>
+
+</merger>

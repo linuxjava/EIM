@@ -24,7 +24,7 @@ import csdn.shimiso.eim.model.LoginConfig;
 
 /**
  * 
- * µÇÂ¼Òì²½ÈÎÎñ.
+ * ç™»å½•å¼‚æ­¥ä»»åŠ¡.
  * 
  * @author shimiso
  */
@@ -43,8 +43,8 @@ public class LoginTask extends AsyncTask<String, Integer, Integer> {
 
 	@Override
 	protected void onPreExecute() {
-		pd.setTitle("ÇëÉÔµÈ");
-		pd.setMessage("ÕıÔÚµÇÂ¼...");
+		pd.setTitle("è¯·ç¨ç­‰");
+		pd.setMessage("æ­£åœ¨ç™»å½•...");
 		pd.show();
 		super.onPreExecute();
 	}
@@ -62,34 +62,34 @@ public class LoginTask extends AsyncTask<String, Integer, Integer> {
 	protected void onPostExecute(Integer result) {
 		pd.dismiss();
 		switch (result) {
-		case Constant.LOGIN_SECCESS: // µÇÂ¼³É¹¦
-			Toast.makeText(context, "µÇÂ½³É¹¦", Toast.LENGTH_SHORT).show();
+		case Constant.LOGIN_SECCESS: // ç™»å½•æˆåŠŸ
+			Toast.makeText(context, "ç™»é™†æˆåŠŸ", Toast.LENGTH_SHORT).show();
 			Intent intent = new Intent();
-			if (loginConfig.isFirstStart()) {// Èç¹ûÊÇÊ×´ÎÆô¶¯
+			if (loginConfig.isFirstStart()) {// å¦‚æœæ˜¯é¦–æ¬¡å¯åŠ¨
 				intent.setClass(context, GuideViewActivity.class);
 				loginConfig.setFirstStart(false);
 			} else {
 				intent.setClass(context, MainActivity.class);
 			}
-			activitySupport.saveLoginConfig(loginConfig);// ±£´æÓÃ»§ÅäÖÃĞÅÏ¢
-			activitySupport.startService(); // ³õÊ¼»¯¸÷Ïî·şÎñ
+			activitySupport.saveLoginConfig(loginConfig);// ä¿å­˜ç”¨æˆ·é…ç½®ä¿¡æ¯
+			activitySupport.startService(); // åˆå§‹åŒ–å„é¡¹æœåŠ¡
 			context.startActivity(intent);
 			break;
-		case Constant.LOGIN_ERROR_ACCOUNT_PASS:// ÕË»§»òÕßÃÜÂë´íÎó
+		case Constant.LOGIN_ERROR_ACCOUNT_PASS:// è´¦æˆ·æˆ–è€…å¯†ç é”™è¯¯
 			Toast.makeText(
 					context,
 					context.getResources().getString(
 							R.string.message_invalid_username_password),
 					Toast.LENGTH_SHORT).show();
 			break;
-		case Constant.SERVER_UNAVAILABLE:// ·şÎñÆ÷Á¬½ÓÊ§°Ü
+		case Constant.SERVER_UNAVAILABLE:// æœåŠ¡å™¨è¿æ¥å¤±è´¥
 			Toast.makeText(
 					context,
 					context.getResources().getString(
 							R.string.message_server_unavailable),
 					Toast.LENGTH_SHORT).show();
 			break;
-		case Constant.LOGIN_ERROR:// Î´ÖªÒì³£
+		case Constant.LOGIN_ERROR:// æœªçŸ¥å¼‚å¸¸
 			Toast.makeText(
 					context,
 					context.getResources().getString(
@@ -100,7 +100,7 @@ public class LoginTask extends AsyncTask<String, Integer, Integer> {
 		super.onPostExecute(result);
 	}
 
-	// µÇÂ¼
+	// ç™»å½•
 	private Integer login() {
 		String username = loginConfig.getUsername();
 		String password = loginConfig.getPassword();
@@ -108,10 +108,10 @@ public class LoginTask extends AsyncTask<String, Integer, Integer> {
 			XMPPConnection connection = XmppConnectionManager.getInstance()
 					.getConnection();
 			connection.connect();
-			connection.login(username, password); // µÇÂ¼
-			// OfflineMsgManager.getInstance(activitySupport).dealOfflineMsg(connection);//´¦ÀíÀëÏßÏûÏ¢
+			connection.login(username, password); // ç™»å½•
+			// OfflineMsgManager.getInstance(activitySupport).dealOfflineMsg(connection);//å¤„ç†ç¦»çº¿æ¶ˆæ¯
 			connection.sendPacket(new Presence(Presence.Type.available));
-			if (loginConfig.isNovisible()) {// ÒşÉíµÇÂ¼
+			if (loginConfig.isNovisible()) {// éšèº«ç™»å½•
 				Presence presence = new Presence(Presence.Type.unavailable);
 				Collection<RosterEntry> rosters = connection.getRoster()
 						.getEntries();
@@ -121,7 +121,7 @@ public class LoginTask extends AsyncTask<String, Integer, Integer> {
 				}
 			}
 			loginConfig.setUsername(username);
-			if (loginConfig.isRemember()) {// ±£´æÃÜÂë
+			if (loginConfig.isRemember()) {// ä¿å­˜å¯†ç 
 				loginConfig.setPassword(password);
 			} else {
 				loginConfig.setPassword("");

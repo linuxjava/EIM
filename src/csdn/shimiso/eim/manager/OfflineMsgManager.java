@@ -19,7 +19,7 @@ import csdn.shimiso.eim.util.DateUtil;
 
 /**
  * 
- * ÀëÏßĞÅÏ¢¹ÜÀíÀà.
+ * ç¦»çº¿ä¿¡æ¯ç®¡ç†ç±».
  * 
  * @author shimiso
  */
@@ -43,11 +43,11 @@ public class OfflineMsgManager {
 
 	/**
 	 * 
-	 * ´¦ÀíÀëÏßÏûÏ¢.
+	 * å¤„ç†ç¦»çº¿æ¶ˆæ¯.
 	 * 
 	 * @param connection
 	 * @author shimiso
-	 * @update 2012-7-9 ÏÂÎç5:45:32
+	 * @update 2012-7-9 ä¸‹åˆ5:45:32
 	 */
 	public void dealOfflineMsg(XMPPConnection connection) {
 		OfflineMessageManager offlineManager = new OfflineMessageManager(
@@ -55,11 +55,11 @@ public class OfflineMsgManager {
 		try {
 			Iterator<org.jivesoftware.smack.packet.Message> it = offlineManager
 					.getMessages();
-			Log.i("ÀëÏßÏûÏ¢ÊıÁ¿: ", "" + offlineManager.getMessageCount());
+			Log.i("ç¦»çº¿æ¶ˆæ¯æ•°é‡: ", "" + offlineManager.getMessageCount());
 			while (it.hasNext()) {
 				org.jivesoftware.smack.packet.Message message = it.next();
-				Log.i("ÊÕµ½ÀëÏßÏûÏ¢", "Received from ¡¾" + message.getFrom()
-						+ "¡¿ message: " + message.getBody());
+				Log.i("æ”¶åˆ°ç¦»çº¿æ¶ˆæ¯", "Received from ã€" + message.getFrom()
+						+ "ã€‘ message: " + message.getBody());
 				if (message != null && message.getBody() != null
 						&& !message.getBody().equals("null")) {
 					IMMessage msg = new IMMessage();
@@ -75,11 +75,11 @@ public class OfflineMsgManager {
 					String from = message.getFrom().split("/")[0];
 					msg.setFromSubJid(from);
 
-					// Éú³ÉÍ¨Öª
+					// ç”Ÿæˆé€šçŸ¥
 					NoticeManager noticeManager = NoticeManager
 							.getInstance(context);
 					Notice notice = new Notice();
-					notice.setTitle("»á»°ĞÅÏ¢");
+					notice.setTitle("ä¼šè¯ä¿¡æ¯");
 					notice.setNoticeType(Notice.CHAT_MSG);
 					notice.setContent(message.getBody());
 					notice.setFrom(from);
@@ -87,7 +87,7 @@ public class OfflineMsgManager {
 					notice.setNoticeTime(time == null ? DateUtil
 							.getCurDateStr() : time);
 
-					// ÀúÊ·¼ÇÂ¼
+					// å†å²è®°å½•
 					IMMessage newMessage = new IMMessage();
 					newMessage.setMsgType(0);
 					newMessage.setFromSubJid(from);

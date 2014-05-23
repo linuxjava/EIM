@@ -123,7 +123,7 @@ public class Constant {
 	 */
 	public static final String RECONNECT_STATE = "reconnect_state";
 	/**
-	 * 描述冲连接，
+	 * 描述重连接，
 	 */
 	public static final boolean RECONNECT_STATE_SUCCESS = true;
 	public static final boolean RECONNECT_STATE_FAIL = false;
